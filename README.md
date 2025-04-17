@@ -84,7 +84,7 @@ This project focuses on:
 
 - **Sentiment Distribution**:  
   ![Sentiment Pie Chart](images/sentiment_pWord Cloud Example**:  
-  ![Word Clou
+  ![Word Cloud](https://github.com/saikat912/Web-analytics-Project/blob/e59ca1f5a2e0d90d067ae176d9af71d09a2af6c6/download-9.png)
 - **Model Performance**:  
   | Model                | Accuracy |
   |----------------------|----------|
